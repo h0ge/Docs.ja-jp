@@ -38,7 +38,7 @@ ms.locfileid: "36278045"
 
 ## <a name="prerequisites"></a>必須コンポーネント
 
-[!INCLUDE [](~/includes/net-core-prereqs-windows.md) [](~/includes/net-core-prereqs-windows.md)]
+[!INCLUDE [prerequisites](~/includes/net-core-prereqs-windows.md)]
 
 ## <a name="create-a-razor-web-app"></a>Razor Web アプリの作成
 
@@ -72,7 +72,7 @@ ms.locfileid: "36278045"
 
 ## <a name="prerequisites"></a>必須コンポーネント
 
-[!INCLUDE [](~/includes/net-core-prereqs-windows.md) [](~/includes/net-core-prereqs-windows.md)]
+[!INCLUDE [Prerequisites](~/includes/net-core-prereqs-windows.md)]
 
 ## <a name="create-a-razor-web-app"></a>Razor Web アプリの作成
 
